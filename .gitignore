@@ -3,3 +3,4 @@ datasets/.vector_cache/
 models/.vector_cache/
 *.zip
 *.csv
+*.pyc
